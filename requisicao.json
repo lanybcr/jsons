@@ -1,0 +1,46 @@
+{
+    "Roupas": [
+    {
+        "id": 1,
+        "titulo": "Camiseta Conforto",
+        "descricao": "Multicores e tamanhos. Tecido de algodão 100%, fresquinho para o verão. Modelagem unissex.",
+        "preco": "R$ 70,00",
+        "imagem":"file:///C:/Users/lanyb_twu276b/Workspace/meteora/img/Camiseta.png"
+    },
+    {
+        "id": 2,
+        "titulo": "Calça Alfaiataria",
+        "descricao": "Modelo Wide Leg alfaiataria em linho. Uma peça pra vida toda!",
+        "preco": "R$ 180,00",
+        "imagem":"file:///C:/Users/lanyb_twu276b/Workspace/meteora/img/Cal%C3%A7a.png"
+    }, 
+    {
+        "id": 3,
+        "titulo": "Tênis Chunky", 
+        "descricao": "Snicker casual com solado mais alto e modelagem robusta. Modelo unissex.",
+        "preco": "R$ 250,00",
+        "imagem":"file:///C:/Users/lanyb_twu276b/Workspace/meteora/img/Tenis.png"
+    },
+    {
+        "id": 4,
+         "titulo": "Jaqueta Jeans",
+         "descricao": "Modelo unissex oversized com gola de camurça. Atemporal e autêntica!",
+         "preco": "R$ 150,00",
+         "imagem":"file:///C:/Users/lanyb_twu276b/Workspace/meteora/img/Jaqueta.png" 
+    }, 
+    {
+        "id": 4,
+        "titulo": "Óculos Redondo",
+        "descricao": "Armação metálica em grafite com lentes arredondadas. Sem erro!",
+        "preco": "R$ 120,00",
+        "imagem":"file:///C:/Users/lanyb_twu276b/Workspace/meteora/img/%C3%B3culos.png"
+    },
+    {
+        "id": 5,
+        "titulo": "Bolsa coringa",      
+        "descricao": "Bolsa camel em couro sintético de alta duração. Ideal para acompanhar você por uma vida!",
+        "preco":"R$ 120,00",
+        "imagem": "file:///C:/Users/lanyb_twu276b/Workspace/meteora/img/Bolsa.png"
+    }
+    ]
+}
